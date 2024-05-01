@@ -14,13 +14,6 @@ Welcome to my personal website and portfolio. 🛸
 - Template from [Tailwind nextjs starter blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog) © [`@timlrx`](https://github.com/timlrx)
 - Inspiration from [`@marcbouchenoire`](https://github.com/marcbouchenoire) personal website : [Repo](https://github.com/marcbouchenoire/marcbouchenoire.com)
 
-## Roadmap
-
-- [ ] Multi-language Support
-  - [] English
-
-- [ ] Adding Spotify API Get Currently Playing Track
-
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) © [Timothy Lin](https://www.timrlx.com)
