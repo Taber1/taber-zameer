@@ -1,6 +1,6 @@
-![taber-www-banner](/public/static/images/taber-card.png)
+![taber-banner](/public/static/images/taber-card.png)
 
-# Taber's personal website (https://raphaelchelly.com)
+# Taber's personal website (https://taber-zameer.vercel.app/)
 
 Welcome to my personal website and portfolio. 🛸
 

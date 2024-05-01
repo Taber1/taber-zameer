@@ -5,8 +5,8 @@ const siteMetadata = {
   description: 'Translating business visions into mobile applications.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.raphaelchelly.com/',
-  siteRepo: 'https://github.com/raphaelchelly/raph_www',
+  siteUrl: 'https://taber-zameer.vercel.app/',
+  siteRepo: 'https://github.com/Taber1/taber-zameer',
   siteLogo: '/static/images/taber-logo.png',
   image: '/static/images/avatar-taber.png',
   socialBanner: '/static/images/taber-card.png',
