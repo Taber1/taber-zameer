@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://taber-zameer.vercel.app/sitemap.xml
