@@ -53,6 +53,11 @@ const securityHeaders = [
 ];
 
 module.exports = withBundleAnalyzer({
+  swcMinify: false,
+  compiler: {
+    // This disables using SWC completely
+    removeConsole: false,
+  },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
