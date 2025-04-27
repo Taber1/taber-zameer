@@ -68,6 +68,14 @@ module.exports = withBundleAnalyzer({
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: '/resume',
+        destination: '/static/file/resume.pdf',
+      },
+    ];
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
